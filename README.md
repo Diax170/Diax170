@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Diax170 and I'm new to GitHub
-- 👀 I’m interested in Python & Scratch
-- 💬 I make random simple terminal and/or GUI programs
+- 👀 I’m interested in Python, Scratch and electronics
+- 💬 I make random simple terminal and GUI programs
 
 <!---
 Diax170/Diax170 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
