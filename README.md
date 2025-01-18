@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Diax170 and I'm new to GitHub
-- 👀 I’m interested in Python, Scratch and electronics
+- 👋 Hi, I’m @Diax170
+- 👀 I’m interested in Python and electronics
 - 💬 I make random simple terminal and GUI programs
 
 <!---
