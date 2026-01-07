@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Diax170
-- 👀 I’m interested in Python and electronics
-- 💬 I make random simple terminal and GUI programs
+- 👋 Hi, I’m @Diax170 also known as OliMoli
+- I use Arch btw
+- I use [Scroll](https://github.com/dawsers/scroll) as of now but I sometimes do compositor jumping :)
+- I mostly code in Python and bash but also know JS and C++ a bit
+- I often contirbute to miscellaneous projects
 
 <!---
 Diax170/Diax170 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
